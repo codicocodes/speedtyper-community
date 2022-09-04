@@ -1,5 +1,7 @@
 # speedtyper-community
 
+**❗ This repository is deprecated, please see [this](https://speedtyper.dev/codicocodes/speedtyper.dev) repository to contribute to speedtyper.**
+
 This repository is a way for you to add typing challenges into [SpeedTyper.dev](https://speedtyper.dev). You can add the challenges by adding an additional file in challenges/ that exports an array of codeSources, the codeSources should also be exported in challenges/index.js.
 
 This is an example of a formatted codeSource:
